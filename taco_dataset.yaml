@@ -1,0 +1,23 @@
+names:
+  0: Aluminium foil
+  1: Can
+  2: Carton
+  3: Cup
+  4: Glass bottle
+  5: Metal bottle cap
+  6: Other
+  7: Paper
+  8: Plastic bottle
+  9: Plastic bottle cap
+  10: Plastic container
+  11: Plastic film
+  12: Plastic lid
+  13: Pop tab
+  14: Straw
+  15: Styrofoam piece
+  16: Wrapper
+nc: 17
+path: C:\Users\juanj\Documents\Github\VISUAL\TACO\TACO\yolo_training\yolo_dataset
+test: test/images
+train: train/images
+val: val/images
